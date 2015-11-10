@@ -1,14 +1,7 @@
 # Automatic Zacate game player v0.1
-# B551 Fall 2015
-# Based on skeleton code by D. Crandall
+
 #
 # This is just a driver program. 
-# DON'T MODIFY THIS CODE WITHOUT CHECKING WITH US FIRST!
-# Otherwise we may not be able to grade your submission correctly.
-#
-# Modify ZacateAutoPlayer.py instead.
-# That's where the actual AI logic is implemented
-#
 
 from ZacateState import Dice
 from ZacateState import Scorecard
