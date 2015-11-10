@@ -1,5 +1,5 @@
 # Automatic Zacate game player
-# B551 Fall 2015
+
 # 
 # Name: Deepika Bajpai
 # User Id: dbajpai
@@ -43,23 +43,7 @@
     # 13.Tamal
     #Bonus: In case we get at least 63 score totaled across the first six categories
 #    
-#                    2.Problems Faced and Assumptions:
-#    
-#  The problems faced during the solution formulation is on how to re-roll the dice to get the max score category assigned for each turn.  
-#  Also, how to assign the categories such that no categories will be assigned more than once. For this I implemented a check point to check if the category to be assigned at each turn is already resent in the scorecard or not.  
-#  Also , It was confusing on when to assign the category Tamal so I assigned it at the end when no other condition is getting fulfilled or the condition which is getting fullfiled,already have the corresponding category assigned in the scorecard.  
 #                    
-#                    3. How well the smart zacate player program Works:
-#
-# Results achieved for various runs: 
-# After running this program several times, I have observed that the mean score averages around 128-135.
-# Further Improvement:
-# The performance of the program can still be increased if we somehow manage to assign the first 6 categories so that the total score in them becomes above 63
-# and we can target bonus points as well.
-#
-#**********************************************************************************************************************************************************************************
-#
-#This is the file you should modify to create your new smart Zacate player.
 # The main program calls this program three times for each turn. 
 #   1. First it calls first_roll, passing in a Dice object which records the
 #      result of the first roll (state of 5 dice) and current Scorecard.
