@@ -1,10 +1,5 @@
 # Dice and game state code for Zacate v0.2 (updated Oct 10 to fix bug with pupusa de queso scoring)
-# B551  Fall 2015
-# D. Crandall
-# 
-# DON'T MODIFY THIS CODE WITHOUT CHECKING WITH US FIRST!
-# Otherwise we may not be able to grade your submission correctly.
-#
+
 import random
 
 class Dice:
